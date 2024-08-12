@@ -10,6 +10,6 @@ This dashboard provides insights into ecommerce sales data, including metrics li
 
 ![Tushar Ecommerce Sales Dashboard](https://github.com/abdullahaltushar/PowerBI/blob/main/tushar_dashboard.JPG)
 
-[View the Dashboard](https://github.com/abdullahaltushar/PowerBI/blob/main/tushar_dashboard.JPG)
+[View the Dashboard](https://github.com/abdullahaltushar/PowerBI/tree/main/Tushar%20Ecommerce%20dashboard)
 
 
